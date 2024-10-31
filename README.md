@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hesed2817
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and PHP.
 - 💞️ I’m looking to collaborate on any website development projects.
 - 📫 How to reach me nyirendazaithwa96@gamil.com.
 - ⚡ Fun fact: Ey ey ey ey, chop rice.. chop rice.

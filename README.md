@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any website development projects.
-- 📫 How to reach me nyirendazaithwa96@gamil.com or call.
+- 📫 How to reach me nyirendazaithwa96@gamil.com.
 - ⚡ Fun fact: Ey ey ey ey, chop rice.. chop rice.
 
 <!---
